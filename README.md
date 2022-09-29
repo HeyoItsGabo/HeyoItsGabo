@@ -1,5 +1,4 @@
-👋 Hi, I’m @HeyoItsGabo
-Currently developing my skills in Python and SQL!
+👋 Hi, I’m @HeyoItsGabo! I'm currently developing my skills in Python and SQL!
 
 <!---
 HeyoItsGabo/HeyoItsGabo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
